@@ -15,7 +15,9 @@
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 </div>
 
+<div width=50%>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuunh&layout=compact)](https://github.com/yuunh/github-readme-stats)
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
 </div>
