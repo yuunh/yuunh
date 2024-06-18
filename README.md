@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hello%20World!&fontSize=40" />
 
 # Hello, World!
 
@@ -18,7 +18,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuunh&layout=compact)](https://github.com/yuunh/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuunh)](https://github.com/anuraghazra/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
 </div>
