@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hello,%20World!&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
+<div style="margin-right: 20px;">
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
@@ -12,7 +13,7 @@
 
 ![oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuunh&layout=compact)](https://github.com/yuunh/github-readme-stats)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer" />
