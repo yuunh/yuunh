@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hello%20World!&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hello%20World!&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
